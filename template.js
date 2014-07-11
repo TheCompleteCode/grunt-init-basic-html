@@ -44,6 +44,7 @@ exports.template = function(grunt, init, done) {
     props.require_js_file = /y/i.test(props.require_js_file);
     props.inject_jquery = /y/i.test(props.inject_jquery);
     props.inject_bootstrap = /y/i.test(props.inject_bootstrap);
+    props.inject_mustache = /y/i.test(props.inject_mustache);
 
     // removing files which the user does not need.
     if(!props.require_css_file) {
