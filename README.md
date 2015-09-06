@@ -22,7 +22,7 @@ npm install -g grunt-init
 ```
 Once grunt-init is installed, place this template in your ~/.grunt-init/ directory. It's recommended that you use git to clone this template into that directory, as follows:
 ```
-git clone https://github.com/gruntjs/grunt-init-basic-html.git ~/.grunt-init/basic-html
+git clone https://github.com/thecompletecode/grunt-init-basic-html.git ~/.grunt-init/basic-html
 ```
 (Windows users, see [the documentation](http://gruntjs.com/project-scaffolding) for the correct destination directory path)
 
